@@ -1,6 +1,6 @@
 # URL-Shortner
 
-This is a url shortner madu with python and its libraries such as Tkinter and Pyshortners.
+This is a url shortner made with python and its libraries such as Tkinter and Pyshortners.
 
 You can checkout the source code from 'url.py'. Here in the first entry box the user is asked to enter a URL.
 
